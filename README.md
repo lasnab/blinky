@@ -1,7 +1,7 @@
-# blinky
-teaching old tv's new tricks!
+# blinky: teaching old tv's new tricks!
 ![logo](https://github.com/lasnab/blinky/blob/main/logo.png?raw=true)
 
+## Watch the video of it in action!
 [![Video](https://github.com/lasnab/blinky/blob/main/images/thumbnail.png?raw=true)](https://youtu.be/AuCAjjtdEhw)
 
 ![image](https://github.com/lasnab/blinky/blob/main/images/img1.jpg?raw=true)
