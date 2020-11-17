@@ -2,7 +2,7 @@
 ![logo](https://github.com/lasnab/blinky/blob/main/logo.png?raw=true)
 
 ## Watch the video of it in action!
-[![Video](https://github.com/lasnab/blinky/blob/main/images/thumbnail.png?raw=true)](https://youtu.be/AuCAjjtdEhw)
+[![Video](https://github.com/lasnab/blinky/blob/main/images/show.gif?raw=true)](https://youtu.be/AuCAjjtdEhw)
 
 This is a fun project I built in collaboration. An old CRT Television was repurposed by hollowing out the insides and retrofitting it with my own, custom-made RGB LED matrix, which uses individually addressable LED's. The whole system is controlled using an Adafruit Huzzah to make it WiFi enabled!
 
